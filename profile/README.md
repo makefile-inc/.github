@@ -2,7 +2,7 @@
 
 This organization contains repositories with utils makefile includes repositories for re-usable targets.
 
-## Repositories list: 
+## Repositories list
 
 - [common](https://github.com/makefile-inc/common) - contains base targets for another repos,
   like install binaries, create releases artifacts, git operations... 
